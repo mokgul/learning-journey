@@ -2,7 +2,7 @@
 
 > A personal hub for tracking coding exercises from programming books across different languages.
 
-## 📌 Repositories by Language
+## 📌 Repositories
 
 ### 🟦 CSharp
 📁 [book-exercises-csharp](https://github.com/mokgul/book-exercises-csharp)
