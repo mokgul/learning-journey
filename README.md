@@ -10,8 +10,11 @@ This is my multi-language “workshop” where I experiment, practice, and track
 
 ## 📌 Repositories
 
-### 🟦 CSharp
+### 🟩 CSharp
 📁 [book-exercises-csharp](https://github.com/mokgul/book-exercises-csharp)
+
+### 🟦 C++
+📁 [book-exercises-cpp](https://github.com/mokgul/book-exercises-cpp)
 
 ### 🔴 Front-End
 📁 [book-exercises-react](https://github.com/mokgul/book-exercises-react)
