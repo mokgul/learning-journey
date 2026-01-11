@@ -1,4 +1,4 @@
-### Language Workshop 🛠️
+### 🛠️ Language Workshop
 
 A personal hub for practicing programming exercises from books across multiple languages.
 This is my multi-language “workshop” where I experiment, practice, and track coding exercises.
