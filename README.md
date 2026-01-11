@@ -23,5 +23,5 @@ This is my multi-language “workshop” where I experiment, practice, and track
 
 ---
 
-Each language repo includes folders for each book and organized solutions to exercises.
+> Each language repo includes folders for each book and organized solutions to exercises.
 
